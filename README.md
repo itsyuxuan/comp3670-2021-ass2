@@ -1,4 +1,4 @@
-# comp3670-2021-ass2
+# Clustering, Linear Regression and Gradient Descent
 ANU COMP3670 : Introduction to Machine Learning - Assignment 2
 
 Mark: 94/100
