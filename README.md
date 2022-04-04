@@ -1,4 +1,3 @@
-# K-Means Clustering, Linear Regression, and Gradient Descent
-ANU COMP3670 : Introduction to Machine Learning - Assignment 2
+# comp3670-2021-ass2
 
-Mark: 94/100
+K-Means Clustering, Linear Regression, and Gradient Descent (ANU COMP3670 assignment).
